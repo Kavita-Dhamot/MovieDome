@@ -14,9 +14,10 @@ Movie Recommendation System created using Collaborative Filtering in website and
 5. Open your terminal/command prompt from your project directory and run the command `python main.py`.
 
 ## Flowchart
-<img width="2994" alt="Movie Dome" src="https://user-images.githubusercontent.com/76651398/170722720-8909f598-f6ef-42c8-8842-ca2594ef2e3c.png">
+<img width="2994" alt="Movie Dome" src="https://user-images.githubusercontent.com/76651398/170763569-a95af6c5-13be-43d7-babc-77b0502fab9f.png">
 
 ## Deployment
 The application deployed can be accessed from [here](https://movie-dome.herokuapp.com/)
 
+## Resources
 You can go through [this](https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf) to know more about the algorithm.
