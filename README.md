@@ -18,3 +18,5 @@ Movie Recommendation System created using Collaborative Filtering in website and
 
 ## Deployment
 The application deployed can be accessed from [here](https://movie-dome.herokuapp.com/)
+
+You can go through [this](https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf) to know more about the algorithm.
