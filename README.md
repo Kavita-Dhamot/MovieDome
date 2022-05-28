@@ -22,6 +22,8 @@ The application deployed can be accessed from [here](https://movie-dome.herokuap
 ## Presentation
 You can refer the ppt from [here](https://github.com/Kavita-Dhamot/MovieDome/files/8791550/MovieDome.pptx)
 
-
 ## Resources
 You can go through [this](https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf) to know more about the algorithm.
+
+## Extra Error
+If you encounter `Python/Docker ImportError: cannot import name 'json' from itsdangerous` then just put `itsdangerous==2.0.1` in your `requirements.txt` and run the command `pip install -r requirements.txt` to update your virtualenv.
